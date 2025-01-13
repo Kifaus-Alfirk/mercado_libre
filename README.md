@@ -30,9 +30,9 @@ To get a local copy up and running follow these simple example steps.
 ### Install
 
 1. Install packages
+   ```
    ```pip install pytest-playwright
    ```
    ```playwright install
-   ```
 
 
